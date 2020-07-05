@@ -1,0 +1,27 @@
+body
+{
+    background-color: rosybrown;
+}
+#para2
+{
+    font-style: oblique;
+    font-size: large;
+}
+
+.center
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.center2
+{
+    text-align: center;
+    font-weight: bold;
+}
+
+.para1
+{
+    text-align: center;
+}
